@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.sales.GoodsStatusTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-23T10:35:13" hostname="DESKTOP-Q49L1F3" time="0.014">
+  <properties/>
+  <testcase name="testFromValue_ValidOption_ReturnsGoodsStatus()" classname="org.sales.GoodsStatusTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
